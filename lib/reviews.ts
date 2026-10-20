@@ -49,8 +49,20 @@ export const googleReviews: GoogleReviews = {
   reviewQrSrc: undefined,
   reviews: [
     {
-      name: "Google reviewer",
-      text: "All the equipment is brand new, and the gym is kept clean and hygienic.",
+      name: "RK Ashwin",
+      text: "Love the ambience & the equipment. very respectful staff and trainer, relatively new place so the crowd is not too much..",
+    },
+    {
+      name: "Saidesh Chawdary",
+      text: "Really good gym with a nice two-storey setup. The coach is excellent and genuinely helpful. All the equipment is brand new, and the gym is kept clean and hygienic. Overall, a great place to work out with a good atmosphere. Definitely recommend it.",
+    },
+    {
+      name: "Mohdfurqan Furqan",
+      text: "If you are looking for a gym you can definitely go for popoeye fitness gym. The gym is well maintained and clean, equipment’s are good especially management are very kind and cooperative ♥️",
+    },
+    {
+      name: "Adnan Ali",
+      text: "This gym is very good and there staff is very good communication and the environment also good and the trainer is very friendly and good...",
     },
   ],
 };
